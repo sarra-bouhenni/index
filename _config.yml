@@ -78,14 +78,12 @@ content:
         description: | # this will include new lines to allow paragraphs
             I teach the course Programming languages for Big Data - Scala in the specialized post-graduation training (PGS). The course covers:
             - Basic syntax of Scala programming language.
-            - Object Oriented Programming in Scala.
             - Functional programming with Scala, including higher order functions, lambda expressions, partial evaluation, etc.
             - Collections in Scala, Lists, Vectors, Sets and Maps.
             
             I also teach the introductory course Frameworks for big graphs - GraphX where the following points are covered:
             - Basic operators for graph loading using GraphX.
             - Graph transformations and information aggregation with the graph-parallel paradigm of GraphX.
-            - Design and implementation of iterative algorithms based on the Pregel model on top of GraphX.
       - layout: left
         title: Yassir
         link: yassir.com
@@ -138,13 +136,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**
-          * Scala: I have an experience of 3 years working with Scala and functional programming. I have implemented several distributed algorithms of graphs with Scala, Spark RDDs and GraphX.
-          * Python: I had the chance to work with Python for one year during my final year’s engineering project. I have implemented different data science algorithms in addition to a web application using Django. I have also worked on a data science project using Python during my experience at Ya Technologies.
+          * **Scala:** I have an experience of 3 years working with Scala and functional programming. I have implemented several distributed and parallel algorithms of graphs with Scala, Spark RDDs and GraphX.
+          * **Python:** I had the chance to work with Python for one year during my final year’s engineering project. I have implemented different data science algorithms in addition to a web application using Django. I have also worked on a data science project using Python during my experience at Ya Technologies.
           * Basic knowledge of C, C++, Java
 
       - **Big data plateforms**
-          * Spark Apache I have an experience of 3 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
-          * Elastic Stack I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Ya Technologies. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
+          * **Spark Apache:** I have an experience of 3 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
+          * **Elastic Stack:** I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Ya Technologies. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
   - title: Spoken Languages 
     layout: text
     content: |
