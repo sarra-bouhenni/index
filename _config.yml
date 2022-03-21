@@ -80,6 +80,7 @@ content:
             - Object Oriented Programming in Scala.
             - Functional programming with Scala, including higher order functions, lambda expressions, partial evaluation, etc.
             - Collections in Scala, Lists, Vectors, Sets and Maps.
+            
             I also teach the introductory course Frameworks for big graphs - GraphX where the following points are covered:
             - Basic operators for graph loading using GraphX.
             - Graph transformations and information aggregation with the graph-parallel paradigm of GraphX.
@@ -106,12 +107,12 @@ content:
         #quote: >
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
-        In my final year’s engineering project, I worked on the design and development of a monitoring system for predicting plant diseases in Algeria, using Incremental Machine Learning algorithms. My responsibilities in this project included:
-        - Collecting data on plant disease prediction for the two diseases: Fusarium Head Blight and Potato Mildiew.
-        - Design of a new algorithm for plant disease prediction based on incremental learning.
-        - Design and development of a backend for disease prediction based on current weather conditions, using Python and Django.
-        - Design and development of a web application, using Angular, for monitoring and visualization of the disease spread across Algerian crops.
-      
+            In my final year's engineering project, I worked on the design and development of a monitoring system for predicting plant diseases in Algeria, using Incremental Machine Learning algorithms. My responsibilities in this project included:
+            - Collecting data on plant disease prediction for the two diseases Fusarium Head Blight and Potato Mildiew.
+            - Design of a new algorithm for plant disease prediction based on incremental learning.
+            - Design and development of a backend for disease prediction based on current weather conditions, using Python and Django.
+            - Design and development of a web application, using Angular, for monitoring and visualization of the disease spread across Algerian crops.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -123,26 +124,26 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           I worked in my PhD on the problem of Graph Pattern Matching (GPM) in the context of large-scale distributed graphs. 
-          Our goal was proposing new parallel and distributed algorithms to answer GPM queries in big graphs while taking into consideration the shortcomings of prior work in this field.
-          Thesis dissertation can be found at Research Gate: [Parallel and Distributed Algorithms for Pattern Matching in Big Graphs](https://www.researchgate.net/publication/358743592_Parallel_and_Distributed_Algorithms_for_Pattern_Matching_in_Big_Graphs)
+          PhD Thesis dissertation can be downloaded via this link: [Parallel and Distributed Algorithms for Pattern Matching in Big Graphs](https://www.researchgate.net/publication/358743592_Parallel_and_Distributed_Algorithms_for_Pattern_Matching_in_Big_Graphs)
       - layout: left
         title: Ecole Supérieure d`Informatique 
         caption: 2012 - 2017 
         sub_title: Engineering degree in IT Systems
         description: |
           My final year's project was about the development of a plant disease forecasting platform.
+          Thesis dissertation can be downloaded via this link: [APDM : vers une plateforme intelligente pour la prevision des maladies végétales](https://drive.google.com/file/d/1QmuhPy8RzpltF8gWpgLG8hjICcmnCM4R/view)
 
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Programming Languages
-      -- Scala: I have an experience of 3 years working with Scala and functional programming. I have implemented several distributed algorithms of graphs with Scala, Spark RDDs and GraphX.
-      -- Python: I had the chance to work with Python for one year during my final year’s engineering project. I have implemented different data science algorithms in addition to a web application using Django. I have also worked on a data science project using Python during my experience at Ya Technologies.
-      -- Basic knowledge of C, C++, Java
+          * Scala: I have an experience of 3 years working with Scala and functional programming. I have implemented several distributed algorithms of graphs with Scala, Spark RDDs and GraphX.
+          * Python: I had the chance to work with Python for one year during my final year’s engineering project. I have implemented different data science algorithms in addition to a web application using Django. I have also worked on a data science project using Python during my experience at Ya Technologies.
+          * Basic knowledge of C, C++, Java
 
       - Big data plateforms
-      -- Spark Apache I have an experience of 3 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
-      -- Elastic Stack I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Ya Technologies. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
+          * Spark Apache I have an experience of 3 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
+          * Elastic Stack I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Ya Technologies. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
 
 # Footer
 footer_show_references: false
