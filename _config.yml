@@ -9,7 +9,7 @@ version: 2
 name: Sarra Bouhenni
 title: PhD Research Associate
 email: sarra.bouhenni@gmail.com
-website: https://sarra-bouhenni.github.io/index
+address: 5 Rue des 3 frères Aissou, Ben Aknoun, Alger
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -46,7 +46,7 @@ orcid_username: 0000-0002-1091-3909
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   I enjoy building fast, efficient and scalable algorithms for big graphs and big data in general. 
   I hold a PhD in data science that involved the design of distributed algorithms of graph pattern matching on current Think-Like-A-Vertex graph processing systems.
