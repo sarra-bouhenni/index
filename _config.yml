@@ -118,16 +118,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Université Claude Bernard - Lyon 1
+        title: Université Claude Bernard - Lyon 1 and Ecole Supérieure d'Informatique - Alger
         caption: 2018 - 2021
-        sub_title: PhD Computer Science
+        sub_title: Joint PhD in Computer Science
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           I worked in my PhD on the problem of Graph Pattern Matching (GPM) in the context of large-scale distributed graphs. 
           PhD Thesis dissertation can be downloaded via this link: [Parallel and Distributed Algorithms for Pattern Matching in Big Graphs](https://www.researchgate.net/publication/358743592_Parallel_and_Distributed_Algorithms_for_Pattern_Matching_in_Big_Graphs)
       - layout: left
-        title: Ecole Supérieure d`Informatique 
+        title: Ecole Supérieure d'Informatique 
         caption: 2012 - 2017 
         sub_title: Engineering degree in IT Systems
         description: |
@@ -145,7 +145,7 @@ content:
       - **Big data plateforms**
           * Spark Apache I have an experience of 3 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
           * Elastic Stack I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Ya Technologies. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
-  - title: Languages 
+  - title: Spoken Languages 
     layout: text
     content: |
       - Arabic (native speaker)
