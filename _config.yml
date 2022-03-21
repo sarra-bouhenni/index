@@ -76,7 +76,7 @@ content:
         #quote: >
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
-            I teach the course Programming languages for Big Data - Scala in the specialized post-graduation training (PGS). The course covers:
+            I teach the course Programming languages for Big Data - Scala in the post-graduation training PGS. It covers:
             - Basic syntax of Scala programming language.
             - Functional programming with Scala, including higher order functions, lambda expressions, partial evaluation, etc.
             - Collections in Scala, Lists, Vectors, Sets and Maps.
@@ -142,7 +142,7 @@ content:
 
       - **Big data plateforms**
           * **Spark Apache:** I have an experience of 3 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
-          * **Elastic Stack:** I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Ya Technologies. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
+          * **Elastic Stack:** I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Yassir. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
   - title: Spoken Languages 
     layout: text
     content: |
