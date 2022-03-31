@@ -76,14 +76,10 @@ content:
         #quote: >
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
-            I teach the course Programming languages for Big Data - Scala in the post-graduation training PGS. It covers:
-            - Basic syntax of Scala programming language.
-            - Functional programming with Scala, including higher order functions, lambda expressions, partial evaluation, etc.
-            - Collections in Scala, Lists, Vectors, Sets and Maps.
+            I teach the course Programming languages for Big Data - Scala in the post-graduation training PGS. It covers: basic syntax of Scala programming language, functional programming with Scala, and Scala collections.
             
-            I also teach the introductory course Frameworks for big graphs - GraphX where the following points are covered:
-            - Basic operators for graph loading using GraphX.
-            - Graph transformations and information aggregation with the graph-parallel paradigm of GraphX.
+            I also teach the introductory course Frameworks for big graphs - GraphX.
+            
       - layout: left
         title: Yassir
         link: yassir.com
@@ -146,9 +142,7 @@ content:
   - title: Spoken Languages 
     layout: text
     content: |
-      - Arabic (native speaker)
-      - French 
-      - English
+      Arabic (native speaker) -- French  -- English
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
