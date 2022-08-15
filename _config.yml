@@ -61,11 +61,11 @@ content:
         link: www.cerist.dz
         # link_text: boringcompany.com
         sub_title: Research Associate
-        caption: Februaury 2022 - Present
+        caption: Februaury 2022 - June 2022
         #quote: >
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
-            I work on distributed algorithms of big graphs and big data processing platforms.
+            I worked on distributed algorithms of big graphs and big data processing platforms.
             My research interests include: Distributed algorithms, Graph algorithms, Graph Pattern Matching, ML Applied to graphs, graph data models. 
       - layout: left
         title: CERIST Research Center
@@ -76,9 +76,9 @@ content:
         #quote: >
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
-            I teach the course Programming languages for Big Data - Scala in the post-graduation training PGS. It covers: basic syntax of Scala programming language, functional programming with Scala, and Scala collections.
+            I teached the course Programming languages for `Big Data - Scala` in the post-graduation training PGS. It covers: basic syntax of Scala programming language, functional programming with Scala, and Scala collections.
             
-            I also teach the introductory course Frameworks for big graphs - GraphX.
+            I also teached the introductory course `Frameworks for big graphs - GraphX`.
             
       - layout: left
         title: Yassir
@@ -132,12 +132,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**
-          * **Scala:** I have an experience of 3 years working with Scala and functional programming. I have implemented several distributed and parallel algorithms of graphs with Scala, Spark RDDs and GraphX.
+          * **Scala:** I have an experience of 4 years working with Scala and functional programming. I have implemented several distributed and parallel algorithms of graphs with Scala, Spark RDDs and GraphX.
           * **Python:** I had the chance to work with Python for one year during my final year’s engineering project. I have implemented different data science algorithms in addition to a web application using Django. I have also worked on a data science project using Python during my experience at Ya Technologies.
-          * Basic knowledge of C, C++, Java
+          * Basic knowledge of Java, C, C++
 
       - **Big data plateforms**
-          * **Spark Apache:** I have an experience of 3 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
+          * **Spark Apache:** I have an experience of 4 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
           * **Elastic Stack:** I have worked with the different components of the Elastic Stack including Logstash, Elasticsearch and Kibana during my experience as a data science consultant at Yassir. I have also an experience in the deployment and management of an Elasticsearch cluster on a production environment using Docker and Kubernetes.
   - title: Spoken Languages 
     layout: text
