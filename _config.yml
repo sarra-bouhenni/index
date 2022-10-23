@@ -66,6 +66,9 @@ content:
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
             I work on designing large scale parallel and distributed machine learning algorithms for streaming data.
+            
+            Ubiquity.AI helps Ad Networks to increase their ROI by removing ad decisioning bottlenecks thanks to a proprietary Decision as a Service platform that increases their margin up to 300% while preserving the scale.
+            Unlike solutions that rely on constant manual tuning or general-purpose Machine Learning not fitted for all KPIs, Ubiquity.AI empowers Ad Networks to grow their margin and customer base without growing their operational costs.
       - layout: left
         title: CERIST Research Center
         link: www.cerist.dz
@@ -86,9 +89,9 @@ content:
         #quote: >
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
-            I teached the course Programming languages for `Big Data - Scala` in the post-graduation training PGS. It covers: basic syntax of Scala programming language, functional programming with Scala, and Scala collections.
+            I delivered the programming course `Big Data - Scala` in the post-graduation training PGS. It covers: basic syntax of Scala programming language, functional programming with Scala, and Scala collections.
             
-            I also teached the introductory course `Frameworks for big graphs - GraphX`.
+            I also delivered the introductory course `Frameworks for big graphs - GraphX`.
             
       - layout: left
         title: Yassir
