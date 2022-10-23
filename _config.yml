@@ -79,6 +79,7 @@ content:
         #  I work on distributed algorithms of big graphs and big data processing platforms
         description: | # this will include new lines to allow paragraphs
             I worked on distributed algorithms of big graphs and big data processing platforms.
+            
             My research interests include: Distributed algorithms, Graph algorithms, Graph Pattern Matching, ML Applied to graphs, graph data models. 
       - layout: left
         title: CERIST Research Center
