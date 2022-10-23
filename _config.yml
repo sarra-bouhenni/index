@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Sarra Bouhenni
-title: PhD Research Associate
+title: Realtime ML researcher
 email: sarra.bouhenni@gmail.com
-address: 5 Rue des 3 frères Aissou, Ben Aknoun, Alger
+address: Bordeaux, Nouvelle Aquitaine, France
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -56,6 +56,16 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: Ubiquity.AI
+        link: https://ubiquity.ai
+        # link_text: boringcompany.com
+        sub_title: Realtime ML researcher
+        caption: July 2022 - Present
+        #quote: >
+        #  I work on distributed algorithms of big graphs and big data processing platforms
+        description: | # this will include new lines to allow paragraphs
+            I work on designing large scale parallel and distributed machine learning algorithms for streaming data.
       - layout: left
         title: CERIST Research Center
         link: www.cerist.dz
