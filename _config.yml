@@ -146,9 +146,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**
-          * **Scala:** I have an experience of 4 years working with Scala and functional programming. I have implemented several distributed and parallel algorithms of graphs with Scala, Spark RDDs and GraphX.
+          * **Scala:** I have an experience of 5 years working with Scala and functional programming. I have implemented several distributed and parallel algorithms of graphs with Scala, Spark RDDs and GraphX.
           * **Python:** I had the chance to work with Python for one year during my final year’s engineering project. I have implemented different data science algorithms in addition to a web application using Django. I have also worked on a data science project using Python during my experience at Ya Technologies.
-          * Basic knowledge of Java, C, C++
+          * ** Java:** I work with Java on a daily basis.
+          * Basic knowledge of C, C++
 
       - **Big data plateforms**
           * **Spark Apache:** I have an experience of 4 years working with Spark and its module GraphX for designing graph pattern matching algorithms in the context of massive graphs. I am also responsible of the deployment and management of the big data plateform at the CERIST research center.
