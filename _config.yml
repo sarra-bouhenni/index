@@ -46,7 +46,7 @@ orcid_username: 0000-0002-1091-3909
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile-min.jpg
+about_profile_image: images/profile-min.png
 about_content: | # this will include new lines to allow paragraphs
   I enjoy building fast, efficient and scalable algorithms for big graphs and big data in general. 
   I hold a PhD in data science that involved the design of distributed algorithms of graph pattern matching on current Think-Like-A-Vertex graph processing systems.
