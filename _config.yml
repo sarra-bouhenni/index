@@ -146,9 +146,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**
+          * **Java:** I work with Java on a daily basis.
           * **Scala:** I have an experience of 5 years working with Scala and functional programming. I have implemented several distributed and parallel algorithms of graphs with Scala, Spark RDDs and GraphX.
           * **Python:** I had the chance to work with Python for one year during my final year’s engineering project. I have implemented different data science algorithms in addition to a web application using Django. I have also worked on a data science project using Python during my experience at Ya Technologies.
-          * **Java:** I work with Java on a daily basis.
           * Basic knowledge of C, C++
 
       - **Big data plateforms**
