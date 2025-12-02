@@ -156,7 +156,7 @@ content:
   - title: Spoken Languages 
     layout: text
     content: |
-      Arabic (native speaker) -- French  -- English
+      Arabic -- French  -- English
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
